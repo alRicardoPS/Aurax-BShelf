@@ -1,2 +1,11 @@
-:root {--cor-de-fundo: #C1E1FF; 
+:root {
+    --cor-de-fundo: rgb(193, 225, 255);
+    --cor-da-letra-titulo: rgb(140, 82, 255);
+    --cor-da-letra-escrita: rgb(0,0,0); 
+}
+
+body{
+    color: var(--cor-da-letra-titulo);
+    font-family: "Dela Gothic One", sans-serif;
+    background-color: var(--cor-de-fundo);
 }
