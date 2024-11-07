@@ -10,5 +10,5 @@
 body{
     color: var(--cor-da-letra-titulo);
     font-family: "Dela Gothic One", sans-serif;
-    background-color: var(--cor-de-fundo2);
+    background-color: var(--cor-do-header);
 }
