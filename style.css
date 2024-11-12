@@ -1,14 +1,18 @@
 @import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
 :root {
     --cor-de-fundo: rgb(193, 225, 255);
     --cor-de-fundo2: rgb(20, 0, 30);
     --cor-da-letra-titulo: rgb(140, 82, 255);
     --cor-da-letra-escrita: rgb(0,0,0);
     --cor-do-header: rgb(255,255,255);
+    --fonte-principal:"Lexend", sans-serif;
+
 }
 
 body{
     color: var(--cor-da-letra-titulo);
-    font-family: "Dela Gothic One", sans-serif;
-    background-color: var(--cor-do-header);
+    font-family:"Lexend", sans-serif;
+    font-size: 15px;
 }

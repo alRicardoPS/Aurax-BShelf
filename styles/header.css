@@ -1,21 +1,27 @@
 .cabeçalho_menu-hamburguer {
     width: 24px;
     height: 24px;
-    background-image: url("../img/menu.svg");
+    background-image: url("../img/menub.svg");
     background-repeat: no-repeat;
     display: inline-block;
+    margin-top: 20%;
 }
 
 .cabeçalho {
-    background: rgb(255,255,255);
-background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(66,19,198,1) 30%, rgba(66,19,198,1) 100%);
+    background: rgb(176,132,255);
+    background: linear-gradient(135deg,
+    rgba(176,132,255,1) 0%, 
+    rgba(200,255,201,1) 50%, 
+    rgba(255,204,140,1) 98%);
+    
 display: flex;
 justify-content: space-between;
 align-items: center;
 border-radius: 10px;
-width: 80% ;
 height: 80% ;
-margin-left: auto;}
+margin-top: 20px;
+margin-left: 20px;
+margin-right: 20px;}
 
 .container {
     display: flex;
@@ -30,9 +36,32 @@ margin-left: auto;}
 .lista-menu{
     display: none;
     position: absolute;
-    top: 7%;
+    top: 10%;
+    width: 200px;
 }
 
 .container_botao:checked~.lista-menu{
     display: block;
+}
+
+.lista-menu_titulo, .lista-menu_item{
+    padding: 10px;
+    margin-bottom: 5px;
+    background: rgb(172, 172, 172);
+
+    border-radius: 10px;
+}
+
+.lista-menu_titulo{
+    color:rgb(58, 0, 113);
+
+}
+
+.lista-menu_link{
+    color: var(--cor-de-fundo2)
+    
+}
+
+body{
+    background-color:rgb(245, 245, 245);
 }
