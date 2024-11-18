@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" viewBox="0 0 13 13" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 5.453125 5.453125 L 7.375 5.453125 L 7.375 7.375 L 5.453125 7.375 Z M 5.453125 5.453125 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 6.414062 5.453125 C 5.882812 5.453125 5.453125 5.882812 5.453125 6.414062 C 5.453125 6.945312 5.882812 7.375 6.414062 7.375 C 6.945312 7.375 7.375 6.945312 7.375 6.414062 C 7.375 5.882812 6.945312 5.453125 6.414062 5.453125 Z M 6.414062 5.453125 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 8.660156 5.453125 L 10.585938 5.453125 L 10.585938 7.375 L 8.660156 7.375 Z M 8.660156 5.453125 "/>
+</clipPath>
+<clipPath id="clip4">
+  <path d="M 9.621094 5.453125 C 9.089844 5.453125 8.660156 5.882812 8.660156 6.414062 C 8.660156 6.945312 9.089844 7.375 9.621094 7.375 C 10.152344 7.375 10.585938 6.945312 10.585938 6.414062 C 10.585938 5.882812 10.152344 5.453125 9.621094 5.453125 Z M 9.621094 5.453125 "/>
+</clipPath>
+<clipPath id="clip5">
+  <path d="M 2.167969 5.453125 L 4.09375 5.453125 L 4.09375 7.375 L 2.167969 7.375 Z M 2.167969 5.453125 "/>
+</clipPath>
+<clipPath id="clip6">
+  <path d="M 3.128906 5.453125 C 2.597656 5.453125 2.167969 5.882812 2.167969 6.414062 C 2.167969 6.945312 2.597656 7.375 3.128906 7.375 C 3.660156 7.375 4.09375 6.945312 4.09375 6.414062 C 4.09375 5.882812 3.660156 5.453125 3.128906 5.453125 Z M 3.128906 5.453125 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(30.980393%,30.980393%,30.980393%);fill-opacity:1;" d="M 5.453125 5.453125 L 7.375 5.453125 L 7.375 7.375 L 5.453125 7.375 Z M 5.453125 5.453125 "/>
+</g>
+</g>
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<g clip-path="url(#clip4)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(65.098041%,65.098041%,65.098041%);fill-opacity:1;" d="M 8.660156 5.453125 L 10.585938 5.453125 L 10.585938 7.375 L 8.660156 7.375 Z M 8.660156 5.453125 "/>
+</g>
+</g>
+<g clip-path="url(#clip5)" clip-rule="nonzero">
+<g clip-path="url(#clip6)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 2.167969 5.453125 L 4.09375 5.453125 L 4.09375 7.375 L 2.167969 7.375 Z M 2.167969 5.453125 "/>
+</g>
+</g>
+</g>
+</svg>
